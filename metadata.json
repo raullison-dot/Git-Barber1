@@ -1,0 +1,8 @@
+{
+  "name": "Copy of BarberPro Mobile",
+  "description": "Sistema completo de gestão de barbearia com assistente de estilo IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
